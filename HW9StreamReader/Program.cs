@@ -11,6 +11,9 @@ namespace HW9StreamReader
     {
         static void Main(string[] args)
         {
+            //NOTE: Comment out and uncomment each "PART" to run seperately.
+            //Careful to uncomment while loop seperately from conditional statements in Part 3.
+            
             //Use for all parts
             StreamReader shakespeare = new StreamReader("..\\..\\..\\shakespeare.txt");
             string line = shakespeare.ReadLine();
