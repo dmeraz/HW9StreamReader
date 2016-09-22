@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW9StreamReader\HW9StreamReader\bin\Debug\HW9StreamReader.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW9StreamReader\HW9StreamReader\bin\Debug\HW9StreamReader.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW9StreamReader\HW9StreamReader\bin\Debug\HW9StreamReader.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW9StreamReader\HW9StreamReader\obj\Debug\HW9StreamReader.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW9StreamReader\HW9StreamReader\obj\Debug\HW9StreamReader.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW9StreamReader\HW9StreamReader\obj\Debug\HW9StreamReader.pdb
